@@ -149,14 +149,14 @@ const defaultStore: StoreCategory[] = [
   {
     id: 'vip', title: 'باقات VIP', icon: 'Star', color: '#F59E0B',
     items: [
-      { name: 'داعم برونزي', price: 4, popular: false, image: 'https://k.top4top.io/p_3860ht1391.png', features: ['250,000$ داخل اللعبة', 'رتبة في الديسكورد', 'سيارة معرض عادي'] },
-      { name: 'داعم فضي', price: 7, popular: false, image: 'https://l.top4top.io/p_3860goycq2.png', features: ['300,000$ داخل اللعبة', 'رتبة في الديسكورد', 'سلاح بستول'] },
-      { name: 'داعم ذهبي', price: 10, popular: false, image: 'https://a.top4top.io/p_3860bjc9b3.png', features: ['500,000$ داخل اللعبة', 'رتبة في الديسكورد', 'سيارة معرض مميز'] },
-      { name: 'داعم ماسي', price: 14, popular: false, image: 'https://j.top4top.io/p_3860h6k359.png', features: ['750,000$ داخل اللعبة', 'رتبة في الديسكورد', 'سلاح بستول + سيارة معرض عادي'] },
-      { name: 'داعم استراتيجي', price: 18, popular: true, image: 'https://i.top4top.io/p_3860hc61q8.png', features: ['1,500,000$ داخل اللعبة', 'رتبة في الديسكورد', 'سيارة معرض مميزة'] },
-      { name: 'داعم ماستر', price: 22, popular: false, image: 'https://h.top4top.io/p_386076i2o7.png', features: ['1,000,000$ داخل اللعبة', 'رتبة في الديسكورد', 'نص رشاش + اتنين بستول + سيارة معرض عادي'] },
-      { name: 'داعم بريميوم', price: 30, popular: false, image: 'https://g.top4top.io/p_3860f8x036.png', features: ['1,500,000$ داخل اللعبة', 'رتبة في الديسكورد', 'سلاح نص رشاش + 35 مخزن'] },
-      { name: 'داعم بريميوم بلس', price: 39, popular: false, image: 'https://f.top4top.io/p_3860dov1p5.png', features: ['2,000,000$ داخل اللعبة', 'رتبة في الديسكورد', '3 اسلحه نص رشاش + سيارة معرض غالية'] },
+      { name: 'داعم برونزي', price: 4, popular: false, image: 'https://k.top4top.io/p_3860ht1391.png', features: ['🌱 بداية الدعم', '💵 250,000$ داخل اللعبة', '🎖️ رتبة داعم برونزي في الديسكورد'] },
+      { name: 'داعم فضي', price: 7, popular: false, image: 'https://l.top4top.io/p_3860goycq2.png', features: ['⭐ الأكثر قيمة للمبتدئين', '💵 350,000$ داخل اللعبة', '🎖️ رتبة داعم فضي في الديسكورد', '🔫 سلاح بستول', '📦 3 مخازن'] },
+      { name: 'داعم ذهبي', price: 10, popular: false, image: 'https://a.top4top.io/p_3860bjc9b3.png', features: ['⚡ ترقية قوية', '💵 600,000$ داخل اللعبة', '🎖️ رتبة داعم ذهبي في الديسكورد', '🔫 سلاح بستول', '📦 6 مخازن'] },
+      { name: 'داعم ماسي', price: 14, popular: false, image: 'https://j.top4top.io/p_3860h6k359.png', features: ['💠 أفضل توازن بين السعر والمميزات', '💵 900,000$ داخل اللعبة', '🎖️ رتبة داعم ماسي في الديسكورد', '🔫 سلاح بستول', '📦 10 مخازن', '🚗 سيارة من معرض المواطنين'] },
+      { name: 'داعم استراتيجي', price: 18, popular: true, image: 'https://i.top4top.io/p_3860hc61q8.png', features: ['🏆 الأكثر شراءً', '💵 1,500,000$ داخل اللعبة', '🎖️ رتبة داعم استراتيجي في الديسكورد', '🚘 سيارة من معرض المواطنين', '🎁 مكافأة مفاجئة من الإدارة'] },
+      { name: 'داعم ماستر', price: 22, popular: false, image: 'https://h.top4top.io/p_386076i2o7.png', features: ['👑 للمميزين', '💵 1,750,000$ داخل اللعبة', '🎖️ رتبة داعم ماستر في الديسكورد', '🔫 نصف رشاش', '🔫 2 بستول', '🚗 سيارة من معرض المواطنين'] },
+      { name: 'داعم بريميوم', price: 30, popular: false, image: 'https://g.top4top.io/p_3860f8x036.png', features: ['🔥 للمحترفين', '💵 2,000,000$ داخل اللعبة', '🎖️ رتبة داعم بريميوم في الديسكورد', '🔫 سلاح نصف رشاش', '📦 15 مخزن'] },
+      { name: 'داعم بريميوم بلس', price: 39, popular: false, image: 'https://f.top4top.io/p_3860dov1p5.png', features: ['🌟 أقوى باقة دعم', '💵 2,500,000$ داخل اللعبة', '🎖️ رتبة داعم بريميوم بلس في الديسكورد', '🔫 3 أسلحة نصف رشاش', '🏎️ سيارة من المعرض الفخم'] },
     ],
   },
   {
