@@ -166,7 +166,7 @@ const defaultStore: StoreCategory[] = [
       { name: 'بي ام دبليو', price: 15, popular: false, image: 'https://l.top4top.io/p_38608s7r52.png', features: ['سيارة أنيقة', 'مزيج من الفخامة والأداء', 'تجربة قيادة مميزة'] },
       { name: 'بي ام دبليو E46 معدل صوت محرك', price: 15, popular: false, image: 'https://a.top4top.io/p_386089igi3.png', features: ['صوت محرك مميز', 'كلاسيك معدل', 'أداء محسّن'] },
       { name: 'جولف معدلة', price: 20, popular: false, image: 'https://b.top4top.io/p_3860o8k114.png', features: ['سيارة خفيفة وسريعة', 'تعديلات احترافية', 'مناسبة للسباقات'] },
-      { name: 'بورش GT3 911', price: 30, popular: true, image: 'https://c.top4top.io/p_38606pyeb5.png', features: ['أداء رياضي عالي', 'تصميم أيقوني', 'تجربة سباق حقيقية'] },
+      { name: 'بورش GT3 911', price: 30, popular: false, image: 'https://c.top4top.io/p_38606pyeb5.png', features: ['أداء رياضي عالي', 'تصميم أيقوني', 'تجربة سباق حقيقية'] },
       { name: 'رولز رويس', price: 10, popular: false, image: 'https://d.top4top.io/p_38602ppl06.png', features: ['قمة الفخامة', 'راحة لا مثيل لها', 'رقي في كل تفصيلة'] },
       { name: 'دودج رام بسعر مميز', price: 15, popular: true, image: 'https://k.top4top.io/p_3867gcznc1.png', features: ['صوت محرك قوي', 'هيكل مركبة قوي', 'شكل ضخم أسطوري'] },
       { name: 'تيوتا سوبرا', price: 25, popular: false, image: 'https://e.top4top.io/p_3860ffesk7.png', features: ['أيقونة السيارات الرياضية', 'محرك قوي', 'مثالية للتعديل'] },
