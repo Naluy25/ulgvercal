@@ -163,6 +163,7 @@ const defaultStore: StoreCategory[] = [
     id: 'cars', title: 'سيارات حصرية', icon: 'Car', color: '#3B82F6',
     items: [
       { name: 'لامبورجيني اورس', price: 15, popular: true, image: 'https://k.top4top.io/p_3860obp1y1.png', features: ['سيارة فاخرة عالمية', 'أداء خارق', 'تصميم مبهر'] },
+      { name: 'بي ام دبليو', price: 15, popular: false, image: 'https://d.top4top.io/p_3869l7xdb3.png', features: ['قيادة رياضية', 'ثبات ممتاز', 'تصميم عصري'] },
       { name: 'بي ام دبليو', price: 15, popular: false, image: 'https://l.top4top.io/p_38608s7r52.png', features: ['سيارة أنيقة', 'مزيج من الفخامة والأداء', 'تجربة قيادة مميزة'] },
       { name: 'بي ام دبليو E46 معدل صوت محرك', price: 15, popular: false, image: 'https://a.top4top.io/p_386089igi3.png', features: ['صوت محرك مميز', 'كلاسيك معدل', 'أداء محسّن'] },
       { name: 'جولف معدلة', price: 20, popular: false, image: 'https://b.top4top.io/p_3860o8k114.png', features: ['سيارة خفيفة وسريعة', 'تعديلات احترافية', 'مناسبة للسباقات'] },
