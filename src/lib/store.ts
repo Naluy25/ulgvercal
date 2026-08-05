@@ -205,8 +205,8 @@ const defaultStore: StoreCategory[] = [
   {
     id: 'houses', title: 'منازل حصرية', icon: 'Home', color: '#10B981',
     items: [
-      // { name: 'Studio Apartment', price: 11, popular: false, image: 'https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?w=600&h=450&fit=crop', features: ['شقة وسط المدينة', 'غرفة تخزين', 'إنذار أمني'] },
-      // { name: 'Villa Package', price: 34, popular: true, image: 'https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?w=600&h=450&fit=crop', features: ['فيلا فاخرة', 'مرآب خاص', 'حديقة', 'حمام سباحة'] },
+      { name: 'Studio Apartment', price: 11, popular: false, image: 'https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?w=600&h=450&fit=crop', features: ['شقة وسط المدينة', 'غرفة تخزين', 'إنذار أمني'] },
+      { name: 'Villa Package', price: 34, popular: true, image: 'https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?w=600&h=450&fit=crop', features: ['فيلا فاخرة', 'مرآب خاص', 'حديقة', 'حمام سباحة'] },
     ],
   },
   {
