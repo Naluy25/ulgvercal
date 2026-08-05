@@ -176,6 +176,8 @@ const defaultStore: StoreCategory[] = [
       { name: 'بوجاتي سوبر فخم', price: 35, popular: false, image: 'https://e.top4top.io/p_3869weqtl4.png', features: ['سرعة خارقة', 'فخامة مطلقة', 'أداء استثنائي'] },
       { name: 'فيراري سوبر فخم', price: 35, popular: false, image: 'https://f.top4top.io/p_3869ernpn5.png', features: ['تصميم أيقوني', 'تسارع مذهل', 'أداء رياضي فاخر'] },
       { name: 'بينتلي سوبر', price: 35, popular: false, image: 'https://g.top4top.io/p_38694vw1w6.png', features: ['فخامة بريطانية', 'راحة استثنائية', 'محرك قوي'] },
+      { name: 'دراجة نارية فخمة RGP', price: 15, popular: false, image: 'https://i.top4top.io/p_38690agl72.png', features: ['سرعة عالية', 'تصميم رياضي', 'أداء احترافي'] },
+      { name: 'دراجة نارية', price: 10, popular: false, image: 'https://h.top4top.io/p_3869hgrh71.png', features: ['خفيفة وسريعة', 'تحكم ممتاز', 'مثالية للتنقل'] },
     ],
   },
   {
