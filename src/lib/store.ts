@@ -172,7 +172,6 @@ const defaultStore: StoreCategory[] = [
       { name: 'تيوتا سوبرا', price: 25, popular: false, image: 'https://e.top4top.io/p_3860ffesk7.png', features: ['أيقونة السيارات الرياضية', 'محرك قوي', 'مثالية للتعديل'] },
       { name: 'مرسيدس مايباخ', price: 10, popular: false, image: 'https://b.top4top.io/p_3869vgh1y1.png', features: ['فخامة استثنائية', 'راحة ملكية', 'تصميم فاخر'] },
       { name: 'مرسيدس', price: 30, popular: false, image: 'https://c.top4top.io/p_38692z4zk2.png', features: ['تصميم أنيق', 'أداء فاخر', 'راحة عالية'] },
-      { name: 'بي ام دبليو', price: 15, popular: false, image: 'https://d.top4top.io/p_3869l7xdb3.png', features: ['قيادة رياضية', 'ثبات ممتاز', 'تصميم عصري'] },
       { name: 'بوجاتي سوبر فخم', price: 35, popular: false, image: 'https://e.top4top.io/p_3869weqtl4.png', features: ['سرعة خارقة', 'فخامة مطلقة', 'أداء استثنائي'] },
       { name: 'فيراري سوبر فخم', price: 35, popular: false, image: 'https://f.top4top.io/p_3869ernpn5.png', features: ['تصميم أيقوني', 'تسارع مذهل', 'أداء رياضي فاخر'] },
       { name: 'بينتلي سوبر', price: 35, popular: false, image: 'https://g.top4top.io/p_38694vw1w6.png', features: ['فخامة بريطانية', 'راحة استثنائية', 'محرك قوي'] },
