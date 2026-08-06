@@ -201,6 +201,7 @@ const defaultStore: StoreCategory[] = [
     items: [
       { name: 'طاولة تصنيع الأسلحة لمدة شهر', price: 25, popular: false, image: 'https://h.top4top.io/p_38606iimd1.png', features: ['طاولة تصنيع أسلحة', 'مدة شهر كامل', 'تصنيع مجاني'] },
       { name: 'وزنية مركبة خاصة', price: 20, popular: false, image: 'https://images.pexels.com/photos/3802510/pexels-photo-3802510.jpeg?w=600&h=450&fit=crop', features: ['وزنية مركبة خاصة', 'تحسينات مخصصة'] },
+      { name: 'فتح شخصية إضافية', price: 10, popular: false, image: 'https://a.top4top.io/p_3870j7tcl1.png', features: ['شخصية إضافية', 'حساب مستقل', 'جاهزة للاستخدام'] },
     ],
   },
   {
