@@ -214,8 +214,9 @@ const defaultStore: StoreCategory[] = [
   {
     id: 'workshops', title: 'ورش التعديل', icon: 'Wrench', color: '#F97316',
     items: [
-      { name: 'ورشة تعديل الميناء', price: 30, popular: true, image: 'https://l.top4top.io/p_38602decm4.png', features: ['ورشة تعديل في الميناء', 'تعديل السيارات والمركبات', 'مدة شهر كامل'] },
-      { name: 'ورشة تعديل لوس سانتوس', price: 25, popular: false, image: 'https://a.top4top.io/p_3860jy1645.png', features: ['ورشة تعديل في لوس سانتوس', 'تعديل السيارات والمركبات', 'مدة شهر كامل'] },
+      { name: 'ورشة تعديل الميناء', price: 20, popular: true, image: 'https://l.top4top.io/p_38602decm4.png', features: ['ورشة تعديل في الميناء', 'تعديل السيارات والمركبات', 'مدة شهر كامل'] },
+      { name: 'ورشة تعديل لوس سانتوس', price: 15, popular: false, image: 'https://a.top4top.io/p_3860jy1645.png', features: ['ورشة تعديل في لوس سانتوس', 'تعديل السيارات والمركبات', 'مدة شهر كامل'] },
+      { name: 'ورشة تعديل مجمع الورش', price: 10, popular: false, image: 'https://l.top4top.io/p_3870nfywf1.png', features: ['ورشة تعديل في مجمع الورش', 'تعديل السيارات والمركبات', 'مدة شهر كامل'] },
     ],
   },
 ];
