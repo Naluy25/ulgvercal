@@ -177,6 +177,12 @@ const defaultStore: StoreCategory[] = [
       { name: 'بينتلي سوبر', price: 35, popular: false, image: 'https://g.top4top.io/p_38694vw1w6.png', features: ['فخامة بريطانية', 'راحة استثنائية', 'محرك قوي'] },
       { name: 'دراجة نارية فخمة RGP', price: 15, popular: false, image: 'https://i.top4top.io/p_38690agl72.png', features: ['سرعة عالية', 'تصميم رياضي', 'أداء احترافي'] },
       { name: 'دراجة نارية', price: 10, popular: false, image: 'https://h.top4top.io/p_3869hgrh71.png', features: ['خفيفة وسريعة', 'تحكم ممتاز', 'مثالية للتنقل'] },
+      { name: 'أودي', price: 20, popular: false, image: 'https://d.top4top.io/p_3871k76b81.png', features: ['تصميم فاخر', 'أداء قوي', 'قيادة مريحة'] },
+      { name: 'جيب', price: 20, popular: false, image: 'https://e.top4top.io/p_387139m3i2.png', features: ['قوة على الطرق', 'اعتمادية عالية', 'مناسبة لجميع التضاريس'] },
+      { name: 'لانسر إيفو', price: 15, popular: false, image: 'https://f.top4top.io/p_3871ruf8o3.png', features: ['أداء رياضي', 'تسارع قوي', 'تحكم ممتاز'] },
+      { name: 'ديفندر', price: 15, popular: false, image: 'https://g.top4top.io/p_3871v2w6x4.png', features: ['قدرات دفع رباعي', 'تصميم قوي', 'مناسبة للطرق الوعرة'] },
+      { name: 'بوجاتي', price: 15, popular: false, image: 'https://h.top4top.io/p_38715yzmz5.png', features: ['سرعة خارقة', 'تصميم فاخر', 'أداء استثنائي'] },
+      { name: 'دودج معضل', price: 15, popular: false, image: 'https://i.top4top.io/p_3871k5cuf6.png', features: ['محرك V8 قوي', 'شكل عضلي', 'صوت رياضي مميز'] },
     ],
   },
   {
